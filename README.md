@@ -23,7 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
+## Project instruction
 1. 安装 vue-cli 工具
 2. 创建 vue 项目
   默认安装即可
